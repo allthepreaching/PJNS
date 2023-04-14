@@ -1,2 +1,2 @@
-# PJNS
-PastorJonesSermons.com
+# pastorandersonsermons
+PastorAndersonSermons.com
